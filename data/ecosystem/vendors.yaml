@@ -306,6 +306,13 @@
   url: 'https://signoz.io'
   contact: ''
   oss: true
+   commercial: true
+- name: Motadata
+  distribution: true
+  nativeOTLP: true
+  url: 'https://www.motadata.com/'
+  contact: ''
+  oss: true
   commercial: true
 - name: SolarWinds
   distribution: true
